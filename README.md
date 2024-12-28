@@ -1,0 +1,2 @@
+# Server-Min
+Minecraft Server
